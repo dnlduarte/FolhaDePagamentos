@@ -49,7 +49,7 @@ Salário Líquido: R$ 2560.00
 
 1. Clone o repositório
  
-git clone https://github.com/seu-usuario/seu-repositorio.git
+ git clone https://github.com/dnlduarte/FolhaDePagamentos.git
 
 3. Abra o projeto em uma IDE Java (IntelliJ, Eclipse ou VSCode)
 4. Execute a classe:
@@ -70,3 +70,4 @@ Este projeto foi criado para praticar conceitos como:
 ---
 
 ## 👨‍💻 Daniel Duarte
+
